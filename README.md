@@ -1,11 +1,24 @@
-## Hi there 👋
+## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
-:Perfil: *Estudiante de ingenieria de sistemas*
-:skills: *Conocimiento en lenguajes de programacion de python y java*
-:Hobbies:*Ir al gimnasio, jugar futbol y aprender* cosas nuevas"
+🎓 **Perfil:** Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología.  
+💻 **Skills:** Conocimientos en programación con **Python** y **Java**. Actualmente explorando tecnologías como **Git**, **HTML/CSS** y desarrollo web.  
+🚀 Me encanta aprender cosas nuevas cada día y aplicar lo que aprendo en proyectos reales.  
 
-### Vias de contacto 
+### 🧠 Áreas de interés
+- Desarrollo backend y frontend
+- Bases de datos (MySQL, SQL Server)
+- Control de versiones con Git y GitHub
+- Automatización y scripts en Python
 
-![website](https://www.linkedin.com/in/sergio-daza-6b01352aa/)
+### 🎯 Objetivos actuales
+- Mejorar mi nivel de inglés técnico
+- Participar en proyectos colaborativos
+- Construir un portafolio sólido en GitHub y fortalecer mis conocimientos
+---
 
+---
+
+### 📫 Vías de contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Daza-blue?logo=linkedin)](https://www.linkedin.com/in/sergio-daza-6b01352aa/)  
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dazaman08/dazaman08)
