@@ -11,12 +11,14 @@
 - Automatización y scripts en Python
 
 ### 🎯 Objetivos actuales
-- Mejorar mi nivel de inglés técnico
+- Crecer profesionalmente
 - Participar en proyectos colaborativos
 - Construir un portafolio sólido en GitHub y fortalecer mis conocimientos
----
 
----
+###:zap: Actividad Platzi
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ### 📫 Vías de contacto
 
