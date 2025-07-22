@@ -15,9 +15,7 @@
 - Participar en proyectos colaborativos
 - Construir un portafolio sólido en GitHub y fortalecer mis conocimientos
 
-###:zap: Actividad Platzi
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+
 
 ### 📫 Vías de contacto
 
