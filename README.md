@@ -16,9 +16,8 @@
 - Construir un portafolio sólido en GitHub y fortalecer mis conocimientos
 
 ###:zap: Actividad Platzi
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### 📫 Vías de contacto
 
